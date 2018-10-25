@@ -1,8 +1,14 @@
 {
-  "main.js": "/build/main.9f23c885.js",
-  "build/0.86efb7d1.js": "/build/0.86efb7d1.js",
-  "build/1.49df0840.js": "/build/1.49df0840.js",
-  "runtime~main.js": "/build/bundle.46b6a157.js",
-  "static/media/logo.svg": "/static/media/logo.76c52d50.svg",
-  "index.html": "/index.html"
+  "main.css": "/components/static/css/main.173483b2.chunk.css",
+  "main.js": "/components/static/js/main.cc921aad.chunk.js",
+  "main.js.map": "/components/static/js/main.cc921aad.chunk.js.map",
+  "static/js/1.5ab763f2.chunk.js": "/components/static/js/1.5ab763f2.chunk.js",
+  "static/js/1.5ab763f2.chunk.js.map": "/components/static/js/1.5ab763f2.chunk.js.map",
+  "runtime~main.js": "/components/static/js/runtime~main.701db385.js",
+  "runtime~main.js.map": "/components/static/js/runtime~main.701db385.js.map",
+  "static/media/logo.svg": "/components/static/media/logo.76c52d50.svg",
+  "static/css/main.173483b2.chunk.css.map": "/components/static/css/main.173483b2.chunk.css.map",
+  "index.html": "/components/index.html",
+  "precache-manifest.4bf87e7313c22b0b1cf40b278f906981.js": "/components/precache-manifest.4bf87e7313c22b0b1cf40b278f906981.js",
+  "service-worker.js": "/components/service-worker.js"
 }
